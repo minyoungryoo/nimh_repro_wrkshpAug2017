@@ -23,7 +23,7 @@
  'mar****ett@nih.gov', Sean Marrett, marretts, neuropet
  'mic****nte@nih.gov',
  'mic****rk3@nih.gov', Michael Clark, clarkmg (NIH HPC), mgclark (GitHub)
- 'min****yoo@mail.nih.gov',
+ 'min****yoo@mail.nih.gov', Min Ryoo, ryoom, minyoungryoo
  'nin****ili@nih.gov', Nino Migineishvili, migineishvilin2, niniko1997
  'noa****erg@nih.gov',
  'pma****333@gmail.com',
